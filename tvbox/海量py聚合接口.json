@@ -59,36 +59,36 @@
     },
     {
       "key": "七星短剧",
-      "name": "🌟丨七星丨短剧",
+      "name": "🎬七星丨短剧",
       "type": 3,
-      "api": "https://mpimg.cn/down.php/48e9d346cdf6da376c53136693bec95a.py",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/qxdj.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
       "key": "星芽短剧",
-      "name": "🌟丨星芽丨短剧",
+      "name": "🎬星芽┃短剧",
       "type": 3,
-      "api": "https://chigua.eu.org/py/星芽短剧.py",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/星芽短剧.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
       "key": "爱听音乐",
-      "name": "🎶爱听｜音乐歌曲",
+      "name": "📻爱听┃音乐",
       "type": 3,
-      "api": "https://wget.la/raw.githubusercontent.com/tushen6/Tomorrow/master/py/aiting.py",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/爱听音乐.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
       "key": "网络直播",
-      "name": "🌇｜网络｜直播",
+      "name": "📺网络┃点播",
       "type": 3,
-      "api": "https://chigua.eu.org/py/网络直播.py",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/网络直播.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -104,9 +104,9 @@
     },
     {
       "key": "红果短剧",
-      "name": "🍎红果丨短剧爽看",
+      "name": "红果 • 短剧",
       "type": 3,
-      "api": "https://wget.la/raw.githubusercontent.com/tushen6/Tomorrow/master/py/红果短剧.py",
+      "api": "https://oss-v1.wangmeipo.cn/236/红果短剧.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -179,6 +179,51 @@
       "name": "♦｜爱听｜音乐",
       "type": 3,
       "api": "https://chigua.eu.org/py/爱听音乐.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "影探",
+      "name": "🌌影探丨4K资源",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/James/main/py/影探4K.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "gulu",
+      "name": "🐧咕噜丨蓝光秒播",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/James/main/py/咕噜咕噜.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "shanzha4k",
+      "name": "🍒山楂丨蓝光秒播",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/py/山楂4K.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "果果短剧",
+      "name": "🍎果果丨短剧爽看",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/master/py/hgtv.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "yuetingba",
+      "name": "🍊悦听吧",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/James/main/py/悦听吧.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1

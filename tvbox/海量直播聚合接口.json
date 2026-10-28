@@ -61,96 +61,6 @@
       "source": "小马"
     },
     {
-      "name": "live",
-      "url": "http://xhztv.top/dc/小鱼干/lib/tvzb.txt",
-      "ua": "",
-      "source": "小鱼干"
-    },
-    {
-      "name": "Kimentanm",
-      "url": "https://down.nigx.cn/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-      "ua": "",
-      "source": "嗷呜"
-    },
-    {
-      "name": "综合直播",
-      "url": "http://193.123.86.190:14888/TV/iptv.php",
-      "ua": "bingcha/1.1 (mianfeifenxiang) ",
-      "source": "嗷呜"
-    },
-    {
-      "name": "虎牙一起看",
-      "url": "https://sub.ottiptv.cc/huyayqk.m3u",
-      "ua": "okHttp/Mod-1.5.0.0",
-      "source": "嗷呜"
-    },
-    {
-      "name": "斗鱼一起看",
-      "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
-      "ua": "okHttp/Mod-1.5.0.0",
-      "source": "嗷呜"
-    },
-    {
-      "name": "B站直播",
-      "url": "https://sub.ottiptv.cc/bililive.m3u",
-      "ua": "okHttp/Mod-1.5.0.0",
-      "source": "嗷呜"
-    },
-    {
-      "name": "YY轮播",
-      "url": "https://sub.ottiptv.cc/yylunbo.m3u",
-      "ua": "okHttp/Mod-1.5.0.0",
-      "source": "嗷呜"
-    },
-    {
-      "name": "superiptv",
-      "url": "http://127.0.0.1:5266/iptv.m3u",
-      "ua": "",
-      "source": "摸鱼"
-    },
-    {
-      "name": "Guovin",
-      "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u",
-      "ua": "",
-      "source": "X4菠菜pro"
-    },
-    {
-      "name": "牛播一",
-      "url": "http://127.0.0.1:9978/proxy?do=cctva",
-      "ua": "",
-      "source": "饭太硬"
-    },
-    {
-      "name": "Kimentanm1线",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-      "ua": "",
-      "source": "饭太硬"
-    },
-    {
-      "name": "📺简单TV(EXO)",
-      "url": "http://iptv.ruyitv.cc/m3u/tv.txt",
-      "ua": "okhttp/3.15,AptvPlayer/1.4.1,Mozilla/5.0",
-      "source": "网络接口"
-    },
-    {
-      "name": "央视TV直播",
-      "url": "https://gh-proxy.org/raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt",
-      "ua": "",
-      "source": "网络接口"
-    },
-    {
-      "name": "咪咕TV直播",
-      "url": "http://www.52top.com.cn:678/downloads/migu.txt",
-      "ua": "",
-      "source": "网络接口"
-    },
-    {
-      "name": "☁️风云直播☁️",
-      "url": "http://iptv.4666888.xyz/FYTV.m3u",
-      "ua": "",
-      "source": "网络接口"
-    },
-    {
       "name": "本地live文件",
       "url": "http://127.0.0.1:9978/file/XYQTVBox/live.txt",
       "ua": "",
@@ -167,6 +77,72 @@
       "url": "https://ghfile.geekertao.top/https://raw.githubusercontent.com/TianmuTNT/iptv/main/iptv.txt",
       "ua": "",
       "source": "香雅情"
+    },
+    {
+      "name": "live",
+      "url": "http://xhztv.top/dc/小鱼干/lib/tvzb.txt",
+      "ua": "",
+      "source": "小鱼干"
+    },
+    {
+      "name": "综合直播",
+      "url": "http://193.123.86.190:14888/TV/iptv.php",
+      "ua": "bingcha/1.1 (mianfeifenxiang)",
+      "source": "饭太硬"
+    },
+    {
+      "name": "牛播一",
+      "url": "http://127.0.0.1:9978/proxy?do=cctva",
+      "ua": "",
+      "source": "饭太硬"
+    },
+    {
+      "name": "Kimentanm",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "ua": "",
+      "source": "饭太硬"
+    },
+    {
+      "name": "虎牙一起看",
+      "url": "https://sub.ottiptv.cc/huyayqk.m3u",
+      "ua": "okHttp/Mod-1.5.0.0",
+      "source": "饭太硬"
+    },
+    {
+      "name": "斗鱼一起看",
+      "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
+      "ua": "okHttp/Mod-1.5.0.0",
+      "source": "饭太硬"
+    },
+    {
+      "name": "YY轮播",
+      "url": "https://sub.ottiptv.cc/yylunbo.m3u",
+      "ua": "okHttp/Mod-1.5.0.0",
+      "source": "饭太硬"
+    },
+    {
+      "name": "Guovin",
+      "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u",
+      "ua": "",
+      "source": "X4菠菜园"
+    },
+    {
+      "name": "Kimentanm1线",
+      "url": "https://down.nigx.cn/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "ua": "",
+      "source": "嗷呜"
+    },
+    {
+      "name": "B站直播",
+      "url": "https://sub.ottiptv.cc/bililive.m3u",
+      "ua": "okHttp/Mod-1.5.0.0",
+      "source": "嗷呜"
+    },
+    {
+      "name": "Gather「果」",
+      "url": "https://tv.tmxk.kdns.fr/yplrnuc7",
+      "ua": "okhttp/3.8.1",
+      "source": "肥猫"
     },
     {
       "name": "裤佬",
@@ -241,6 +217,42 @@
       "source": "东篱"
     },
     {
+      "name": "📺简单TV(EXO)",
+      "url": "http://iptv.ruyitv.cc/m3u/tv.txt",
+      "ua": "okhttp/3.15,AptvPlayer/1.4.1,Mozilla/5.0",
+      "source": "网络接口"
+    },
+    {
+      "name": "央视TV直播",
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt",
+      "ua": "",
+      "source": "网络接口"
+    },
+    {
+      "name": "咪咕TV直播",
+      "url": "http://www.52top.com.cn:678/downloads/migu.txt",
+      "ua": "",
+      "source": "网络接口"
+    },
+    {
+      "name": "☁️风云直播☁️",
+      "url": "http://iptv.4666888.xyz/FYTV.m3u",
+      "ua": "",
+      "source": "网络接口"
+    },
+    {
+      "name": "live1线",
+      "url": "http://xhztv.top/xhz/live.txt",
+      "ua": "okhttp/3.15",
+      "source": "小盒子单仓"
+    },
+    {
+      "name": "superiptv",
+      "url": "http://127.0.0.1:5266/iptv.m3u",
+      "ua": "",
+      "source": "摸鱼"
+    },
+    {
       "name": "肥猫",
       "url": "http://我不是.肥猫.live/TV/tvzb.txt",
       "ua": "okhttp/3.15",
@@ -257,18 +269,6 @@
       "url": "https://raw.liucn.cc/box/lib/tv/ipv6.m3u",
       "ua": "okhttp/3.15",
       "source": "老刘备"
-    },
-    {
-      "name": "Gather「果」",
-      "url": "https://tv.tmxk.kdns.fr/yplrnuc7",
-      "ua": "okhttp/3.8.1",
-      "source": "肥猫"
-    },
-    {
-      "name": "live1线",
-      "url": "http://xhztv.top/xhz/live.txt",
-      "ua": "okhttp/3.15",
-      "source": "小盒子单仓"
     }
   ]
 }
