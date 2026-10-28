@@ -40,17 +40,15 @@
 
 | 域名 | 用途 |
 |------|------|
-| https://lubin776.github.io/tvbox-api-backup/ | GitHub Pages 主站 |
-| https://0.12yue.de5.net | 备份一线 |
-| https://0.cdz.qzz.io | 备份二线 |
-| https://0.wdzb.eu.cc | 备份三线 |
+| https://liu666666667.github.io/tvbox-api-backup/ | GitHub Pages 主站 |
+
 
 域名指向同一份静态站点，互为备份。
 
 ---
 
 ## 仓库结构
-
+修改api_list.json 文件才行
 ```
 tvbox-api-backup/
 ├── .github/
