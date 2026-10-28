@@ -59,36 +59,36 @@
     },
     {
       "key": "七星短剧",
-      "name": "🎬七星丨短剧",
+      "name": "🌟丨七星丨短剧",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/qxdj.py",
+      "api": "https://mpimg.cn/down.php/48e9d346cdf6da376c53136693bec95a.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
       "key": "星芽短剧",
-      "name": "🎬星芽┃短剧",
+      "name": "🌟丨星芽丨短剧",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/星芽短剧.py",
+      "api": "https://chigua.eu.org/py/星芽短剧.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
       "key": "爱听音乐",
-      "name": "📻爱听┃音乐",
+      "name": "🎶爱听｜音乐歌曲",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/爱听音乐.py",
+      "api": "https://wget.la/raw.githubusercontent.com/tushen6/Tomorrow/master/py/aiting.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
       "key": "网络直播",
-      "name": "📺网络┃点播",
+      "name": "🌇｜网络｜直播",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/网络直播.py",
+      "api": "https://chigua.eu.org/py/网络直播.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -104,9 +104,9 @@
     },
     {
       "key": "红果短剧",
-      "name": "红果 • 短剧",
+      "name": "🍎红果丨短剧爽看",
       "type": 3,
-      "api": "https://oss-v1.wangmeipo.cn/236/红果短剧.py",
+      "api": "https://wget.la/raw.githubusercontent.com/tushen6/Tomorrow/master/py/红果短剧.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -116,6 +116,69 @@
       "name": "世界 • 听书",
       "type": 3,
       "api": "https://oss-v1.wangmeipo.cn/236/世界听书.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "枫叶音乐",
+      "name": "🍁枫叶丨音乐合集",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/2090fedb67387ea1a1ad908a94eb0aa6.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "kwms",
+      "name": "🎶裤硪丨音乐合集",
+      "type": 3,
+      "api": "https://wget.la/raw.githubusercontent.com/tushen6/Tomorrow/master/py/kuwo.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "275听书",
+      "name": "📖275听书｜小说听书",
+      "type": 3,
+      "api": "https://wget.la/raw.githubusercontent.com/tushen6/Tomorrow/master/py/275听书.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "山楂影视",
+      "name": "💥｜山楂 | 影视",
+      "type": 3,
+      "api": "https://chigua.eu.org/py/山楂影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "瓜子影视",
+      "name": "💥｜瓜子 | 影视",
+      "type": 3,
+      "api": "https://chigua.eu.org/py/瓜子影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "哔哩直播py",
+      "name": "🌇｜哔哩｜直播",
+      "type": 3,
+      "api": "https://chigua.eu.org/py/哔哩直播.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "爱听音乐py",
+      "name": "♦｜爱听｜音乐",
+      "type": 3,
+      "api": "https://chigua.eu.org/py/爱听音乐.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
