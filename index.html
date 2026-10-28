@@ -1134,7 +1134,7 @@
     <!-- ====== 页脚（快捷图标 + 版权小字） ====== -->
     <footer class="page-footer">
       <!-- 快捷图标：QQ群 / 微信赞赏 / TG群组 / GitHub（配置见 config.json → about.quickLinks），全页面常驻，位于 footer 小字上方 -->
-      <div id="about-quick-links"></div>
+     
       <p id="footer-text"></p>
     </footer>
   </div>
@@ -1404,12 +1404,7 @@
       if (site.logo) headerLogo.src = site.logo;
       headerTitle.textContent = site.title || '海量接口搬运备份';
 
-      headerSubtitle.innerHTML = `
-        ${site.subtitle || '备用数据源，防屏不迷路'}<br>
-        <a class="qq-link" href="${site.qqUrl || '#'}" target="_blank" rel="noopener noreferrer">
-          ${site.qqText || '猛戳这里加入QQ群: '}<span style="color:#00C853;">${site.qqHighlight || '点击'}</span>
-        </a>
-      `;
+           headerSubtitle.innerHTML = site.subtitle || '备用数据源，防屏不迷路';
 
       if (site.footer) footerText.textContent = site.footer;
 
@@ -1521,7 +1516,7 @@
       if (dec && about.declaration) dec.textContent = about.declaration;
       if (note && about.contributorsNote) note.textContent = about.contributorsNote;
 
-      renderQuickLinks(about.quickLinks || []);
+
     }
 
     function renderContributors(list) {
