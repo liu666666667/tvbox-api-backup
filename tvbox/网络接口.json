@@ -35,7 +35,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "https://wget.la/raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/json/share.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/json/share.json"
     },
     {
       "key": "指南",
@@ -311,16 +311,6 @@
       "timeout": 60
     },
     {
-      "key": "人人",
-      "name": "🌐人人｜4K网盘",
-      "type": 3,
-      "api": "csp_RenRen",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 60
-    },
-    {
       "key": "双星",
       "name": "🌐双星｜4K网盘",
       "type": 3,
@@ -456,6 +446,36 @@
       "filterable": 1
     },
     {
+      "key": "影探",
+      "name": "🌌影探丨4K资源",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/James/main/py/影探4K.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "gulu",
+      "name": "🐧咕噜丨蓝光秒播",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/James/main/py/咕噜咕噜.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "shanzha4k",
+      "name": "🍒山楂丨蓝光秒播",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/py/山楂4K.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "布布",
       "name": "🦊布布丨蓝光秒播",
       "type": 3,
@@ -524,7 +544,7 @@
     },
     {
       "key": "橘汁",
-      "name": "🍊橘汁｜蓝光秒播",
+      "name": "🍊橘汁丨蓝光秒播",
       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
@@ -533,32 +553,12 @@
       "ext": {
         "appName": "https://8815.kstore.vip/tvbox/橘汁",
         "publicKey": "https://8815.kstore.vip/tvbox/MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-        "dataKey": "https://8815.kstore.vip/tvbox/OW1WBLFZCLJ0WTNJCDMYEGXWYVP3PT0=",
+        "dataKey": "https://8815.kstore.vip/tvbox/OW1WBLFZCLJ0WTNJQMRSZ2DYSGNBPT0=",
         "dataIv": "https://8815.kstore.vip/tvbox/OC1A06E197EF10CF3F6058CA7A803B5E",
         "pkg": "https://8815.kstore.vip/tvbox/com.mxj.wylcjbxyx",
         "host": "",
         "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
-        "version": "https://8815.kstore.vip/tvbox/3.0.2.3",
-        "decrypt": "1"
-      }
-    },
-    {
-      "key": "华谊",
-      "name": "🌌华谊｜蓝光秒播",
-      "type": 3,
-      "api": "csp_AppDrama",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "appName": "https://8815.kstore.vip/tvbox/华谊",
-        "publicKey": "https://8815.kstore.vip/tvbox/MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCp9Ek4wIlQAtwFnuBRlsFiow2tr+4UOciGeNKbY7nL74etUqUb6fvpOSOHhFEfaWlfwUpOB17x3JEL3No19nfjCeVYrYPjlJcgoqUWH/tfIfFAQWvtxBIBlKazkhw8d3ChysWmeWRikKqkBsVRY4oqNPuj4sjm6Zult0U4I4prRQIDAQAB",
-        "dataKey": "https://8815.kstore.vip/tvbox/NDBYSZR1DMRRZ05NSUCWEJNIYWLBPT0=",
-        "dataIv": "https://8815.kstore.vip/tvbox/OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "https://8815.kstore.vip/tvbox/com.muyue.tool",
-        "host": "",
-        "site": "https://vip.123pan.cn/1851089669/oss/az5.txt",
-        "version": "https://8815.kstore.vip/tvbox/1.0.0.4",
+        "version": "https://8815.kstore.vip/tvbox/3.0.2.4",
         "decrypt": "1"
       }
     },
@@ -625,13 +625,6 @@
       "filterable": 0
     },
     {
-      "key": "永乐影视",
-      "name": "🎡永乐｜蓝光影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://wget.la/raw.githubusercontent.com/tushen6/Tomorrow/master/XBPQ/永乐影视.json"
-    },
-    {
       "key": "1905",
       "name": "🎥1905｜蓝光秒播",
       "type": 3,
@@ -658,10 +651,10 @@
       }
     },
     {
-      "key": "红果短剧",
-      "name": "🍎红果丨短剧爽看",
+      "key": "果果短剧",
+      "name": "🍎果果丨短剧爽看",
       "type": 3,
-      "api": "https://wget.la/raw.githubusercontent.com/tushen6/Tomorrow/master/py/红果短剧.py",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/master/py/hgtv.py",
       "genre": "shortdrama"
     },
     {
@@ -745,22 +738,6 @@
       }
     },
     {
-      "key": "爱听音乐",
-      "name": "🎶爱听｜音乐歌曲",
-      "type": 3,
-      "api": "https://wget.la/raw.githubusercontent.com/tushen6/Tomorrow/master/py/aiting.py"
-    },
-    {
-      "key": "枫叶音乐",
-      "name": "🍁枫叶丨音乐合集",
-      "type": 3,
-      "api": "https://mpimg.cn/down.php/2090fedb67387ea1a1ad908a94eb0aa6.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "kwms",
       "name": "🎶裤硪丨音乐合集",
       "type": 3,
@@ -786,16 +763,6 @@
       }
     },
     {
-      "key": "轮回DJ",
-      "name": "🎶轮回｜DJ音乐",
-      "type": 3,
-      "api": "csp_Djlh",
-      "style": {
-        "type": "rect",
-        "ratio": 1.0009
-      }
-    },
-    {
       "key": "蜻蜓FM",
       "name": "📻蜻蜓｜FM频道",
       "type": 3,
@@ -806,30 +773,14 @@
       }
     },
     {
-      "key": "世界听书",
-      "name": "📢世界｜听书资源",
+      "key": "yuetingba",
+      "name": "🍊悦听吧",
       "type": 3,
-      "api": "csp_TingShijie",
-      "style": {
-        "type": "rect",
-        "ratio": 1.0009
-      }
-    },
-    {
-      "key": "jin夏听书",
-      "name": "📚jin夏丨听书资源",
-      "type": 3,
-      "api": "csp_TingJinxia",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/James/main/py/悦听吧.py",
       "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://m.ting15.com"
-    },
-    {
-      "key": "275听书",
-      "name": "📖275听书｜小说听书",
-      "type": 3,
-      "api": "https://wget.la/raw.githubusercontent.com/tushen6/Tomorrow/master/py/275听书.py"
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "博看听书",
@@ -851,19 +802,6 @@
       "style": {
         "type": "rect",
         "ratio": 1.0009
-      }
-    },
-    {
-      "key": "网络直播",
-      "name": "🎦平台丨直播聚合",
-      "type": 3,
-      "api": "csp_ALLLive",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
       }
     },
     {
