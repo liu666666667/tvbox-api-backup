@@ -49,6 +49,7 @@
 
 ## 仓库结构
 修改api_list.json 文件才行
+然后action跑每日更新接口---接口扫描处理工具
 ```
 tvbox-api-backup/
 ├── .github/
