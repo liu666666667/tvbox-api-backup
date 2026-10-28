@@ -12,21 +12,11 @@
     ["小马", "https://szyyds.cn/tv/x.json"],
     ["拾光多仓", "http://xmbjm.fh4u.org/dc.txt"],
     ["挺好分享多仓", "http://ztha.top/TVBox/GYCK.json"],
-    ["真心", "https://tvbox.catvod.com/FongMi.json"],
     ["网络接口", "https://8815.kstore.vip/tvbox/wmz"],
-    ["摸鱼", "http://我不是.摸鱼儿.com"],
-    ["巧儿", "http://pandown.pro/tvbox/tvbox.json"],
-    ["OK大佬", "http://ok321.top/tv"],
     ["虎斑", "http://hb.小虎斑.site:25252/仅供测试"],
-    ["多多", "https://yydsys.top/duo"],
     ["东篱", "https://16151.kstore.space"],
     ["香雅情", "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"],
-    ["天微多仓", "https://tvkj.top/DC.txt"],
-    ["天微单仓", "https://gitee.com/tvkj/tw/raw/main/svip.json"],
-    ["小米DEMO", "http://xhww.fun:63/小米/DEMO.json"],
-    ["喵影", "http://meowtv.cn/tv"],
-    ["道长", "https://pastebin.com/raw/5NHaxyGR"],
-    ["蚂蚁", "https://d.kstore.space/download/2883/0110.txt"]
+    ["天微多仓", "https://tvkj.top/DC.txt"]
   ],
   "API_MIRRORS": {
     "饭太硬": [
