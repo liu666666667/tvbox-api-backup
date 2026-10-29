@@ -1,29 +1,29 @@
-咪咕.txt|20261028|469B|https://develop202.github.io/migu_video/interface.txt|小马|null|
-手动不知何时更新.txt|20261028|663.8K|https://szyyds.cn/tv/live/x.txt|小马|null|
-有效期27年7月.php|20261028|6.8K|http://m.szyyds.cn/api.php?token=8664f352657e8b13585bcf0f84fc3512|小马|null|
-音乐所.txt|20261028|22.2M|https://szyyds.cn/tv/live/yy.txt|小马|null|
-live.txt|20261028|161.1K|http://xhztv.top/dc/小鱼干/lib/tvzb.txt|小鱼干|null|
-综合直播.php|20261028|41.9K|http://193.123.86.190:14888/TV/iptv.php|饭太硬|bingcha/1.1 (mianfeifenxiang)|
-Kimentanm.m3u|20261028|21.4K|https://ghproxy.net/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u|饭太硬|null|
-虎牙一起看.m3u|20261028|202.4K|https://sub.ottiptv.cc/huyayqk.m3u|饭太硬|okHttp/Mod-1.5.0.0|
-斗鱼一起看.m3u|20261028|170.5K|https://sub.ottiptv.cc/douyuyqk.m3u|饭太硬|okHttp/Mod-1.5.0.0|
-YY轮播.m3u|20261028|110.7K|https://sub.ottiptv.cc/yylunbo.m3u|饭太硬|okHttp/Mod-1.5.0.0|
-Guovin.m3u|20261028|387.1K|https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u|X4菠菜园|null|
-B站直播.m3u|20261028|39.9K|https://sub.ottiptv.cc/bililive.m3u|嗷呜|okHttp/Mod-1.5.0.0|
-Kimentanm2线.m3u|20261028|21.4K|https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u|东篱|null|
-综合直播1线.txt|20261028|82.6K|https://ds65.tv1288.xyz|东篱|bingcha/1.1 (mianfeifenxiang)|
-develop202.txt|20261028|469B|https://gh-proxy.org/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt|东篱|null|
-EPG直播.txt|20261028|65.5K|http://gh-proxy.org/https://raw.githubusercontent.com/Wirili/IPTV/main/live.txt|东篱|null|
-电视直播.txt|20261028|99.1K|http://gh-proxy.org/raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt|东篱|null|
-游魂.txt|20261028|495.8K|https://www.iyouhun.com/tv/zb|东篱|null|
-YanG.m3u|20261028|25.6K|https://gh-proxy.org/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u|东篱|null|
-suxuang.m3u|20261028|262.3K|https://gh-proxy.org/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u|东篱|null|
+咪咕.txt|20261029|469B|https://develop202.github.io/migu_video/interface.txt|小马|null|
+手动不知何时更新.txt|20261029|663.8K|https://szyyds.cn/tv/live/x.txt|小马|null|
+有效期27年7月.php|20261029|6.8K|http://m.szyyds.cn/api.php?token=8664f352657e8b13585bcf0f84fc3512|小马|null|
+音乐所.txt|20261029|22.2M|https://szyyds.cn/tv/live/yy.txt|小马|null|
+live.txt|20261029|161.1K|http://xhztv.top/dc/小鱼干/lib/tvzb.txt|小鱼干|null|
+综合直播.php|20261029|41.9K|http://193.123.86.190:14888/TV/iptv.php|饭太硬|bingcha/1.1 (mianfeifenxiang)|
+Kimentanm.m3u|20261029|21.4K|https://ghproxy.net/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u|饭太硬|null|
+虎牙一起看.m3u|20261029|199.2K|https://sub.ottiptv.cc/huyayqk.m3u|饭太硬|okHttp/Mod-1.5.0.0|
+斗鱼一起看.m3u|20261029|171.7K|https://sub.ottiptv.cc/douyuyqk.m3u|饭太硬|okHttp/Mod-1.5.0.0|
+YY轮播.m3u|20261029|108.0K|https://sub.ottiptv.cc/yylunbo.m3u|饭太硬|okHttp/Mod-1.5.0.0|
+Guovin.m3u|20261029|387.1K|https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u|X4菠菜园|null|
+B站直播.m3u|20261029|36.0K|https://sub.ottiptv.cc/bililive.m3u|嗷呜|okHttp/Mod-1.5.0.0|
+Kimentanm2线.m3u|20261029|21.4K|https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u|东篱|null|
+综合直播1线.txt|20261029|79.2K|https://ds65.tv1288.xyz|东篱|bingcha/1.1 (mianfeifenxiang)|
+develop202.txt|20261029|469B|https://gh-proxy.org/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt|东篱|null|
+EPG直播.txt|20261029|74.1K|http://gh-proxy.org/https://raw.githubusercontent.com/Wirili/IPTV/main/live.txt|东篱|null|
+电视直播.txt|20261029|101.5K|http://gh-proxy.org/raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt|东篱|null|
+游魂.txt|20261029|494.5K|https://www.iyouhun.com/tv/zb|东篱|null|
+YanG.m3u|20261029|25.6K|https://gh-proxy.org/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u|东篱|null|
+suxuang.m3u|20261029|262.3K|https://gh-proxy.org/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u|东篱|null|
+简单TVEXO.txt|20261029|3.8K|http://iptv.ruyitv.cc/m3u/tv.txt|网络接口|okhttp/3.15,AptvPlayer/1.4.1,Mozilla/5.0|
+央视TV直播.txt|20261029|185.0K|https://gh-proxy.org/raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt|网络接口|null|
+咪咕TV直播.txt|20261029|103.0K|http://www.52top.com.cn:678/downloads/migu.txt|网络接口|null|
+live1线.txt|20261029|258.5K|http://xhztv.top/xhz/live.txt|小盒子单仓|okhttp/3.15|
+SAO0.txt|20261029|71.8K|https://raw.liucn.cc/box/libs/tv/tvlive.txt|老刘备|okhttp/3.15|
 简单TVEXO.txt|20261028|3.8K|http://iptv.ruyitv.cc/m3u/tv.txt|网络接口|okhttp/3.15,AptvPlayer/1.4.1,Mozilla/5.0|
-央视TV直播.txt|20261028|186.5K|https://gh-proxy.org/raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt|网络接口|null|
-咪咕TV直播.txt|20261028|102.3K|http://www.52top.com.cn:678/downloads/migu.txt|网络接口|null|
-live1线.txt|20261028|258.5K|http://xhztv.top/xhz/live.txt|小盒子单仓|okhttp/3.15|
-SAO0.txt|20261028|71.8K|https://raw.liucn.cc/box/libs/tv/tvlive.txt|老刘备|okhttp/3.15|
 Kimentanm1线.m3u|20261028|21.4K|https://ghproxy.net/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u|饭太硬|null|
-简单TVEXO.txt|20261028|3.8K|http://iptv.ruyitv.cc/m3u/tv.txt|网络接口|okhttp/3.15,AptvPlayer/1.4.1,Mozilla/5.0|
 Tianmu.txt|20261028|2.7K|https://ghfile.geekertao.top/https://raw.githubusercontent.com/TianmuTNT/iptv/main/iptv.txt|香雅情|null|
 范明明需开启V6网络.m3u|20260930|12.5K|https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u|饭太硬|null|
