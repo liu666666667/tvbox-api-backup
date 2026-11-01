@@ -82,10 +82,10 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "https://123.666291.xyz",
-          "https://333.333291.xyz",
           "http://www.muoua.top",
-          "https://666.666291.xyz"
+          "https://666.666291.xyz",
+          "https://123.666291.xyz",
+          "https://333.333291.xyz"
         ]
       },
       "timeout": 60
