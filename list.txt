@@ -19,5 +19,12 @@ X4少儿频道.json|20261102|19.2K|https://0.12yue.de5.net/5/tv少儿.json
 GitLab_多仓_推荐_.json|20261102|1.5K|https://gitlab.com/noimank/tvbox/-/raw/main/tvboxmuti.json
 无邪.json|20261102|844B|https://raw.githubusercontent.com/wxrjck/-YSC-/main/yx.txt
 无邪多仓_推荐_.json|20261102|1.1K|https://raw.githubusercontent.com/wxrjck/-YSC-/main/jh.txt
+高天流云.json|20261102|93.5K|https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json
+俊佬.json|20261102|15.2K|http://home.jundie.top:81/top98.json
+fastly_jsdelivr.json|20261102|87.9K|https://fastly.jsdelivr.net/gh/liu673cn/box@main/m.json
+应用多多.json|20261102|497B|https://jihulab.com/duomv/apps/-/raw/main/fast.json
+凯弟多仓.json|20261102|423B|https://jihulab.com/jyqhkd1/jk/-/raw/main/8.json
+z_qiqiv_cn.json|20261102|1.3K|http://z.qiqiv.cn/123
+dxawi.json|20261102|14.1K|https://dxawi.github.io/0/0.json
 潇洒.json|20261101|35.6K|https://9877.kstore.space/sun.json
 摸鱼.json|20261028|27.7K|http://我不是.摸鱼儿.top
