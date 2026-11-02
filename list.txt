@@ -26,5 +26,6 @@ fastly_jsdelivr.json|20261102|87.9K|https://fastly.jsdelivr.net/gh/liu673cn/box@
 凯弟多仓.json|20261102|423B|https://jihulab.com/jyqhkd1/jk/-/raw/main/8.json
 z_qiqiv_cn.json|20261102|1.3K|http://z.qiqiv.cn/123
 dxawi.json|20261102|14.1K|https://dxawi.github.io/0/0.json
+广告过滤.json|20261102|151B|https://raw.githubusercontent.com/liu666666667/tvbox-api-backup/refs/heads/main/tvbox/rule.json
 潇洒.json|20261101|35.6K|https://9877.kstore.space/sun.json
 摸鱼.json|20261028|27.7K|http://我不是.摸鱼儿.top
