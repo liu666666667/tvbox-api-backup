@@ -10,8 +10,6 @@
     ["4K小盒子", "http://xhztv.top/4k.json"],
     ["老刘备", "https://raw.liucn.cc/box/m.json"],
     ["小马", "https://szyyds.cn/tv/x.json"],
-    ["拾光多仓", "http://xmbjm.fh4u.org/dc.txt"],
-    ["挺好分享多仓", "http://ztha.top/TVBox/GYCK.json"],
     ["网络接口", "https://8815.kstore.vip/tvbox/wmz"],
     ["虎斑", "http://hb.小虎斑.site:25252/仅供测试"],
     ["东篱", "https://16151.kstore.space"],
@@ -57,9 +55,6 @@
   "挺好分享多仓": [
     "http://ztha.top/TVBox/GYCK.json"
    ],
-  "嗷呜": [
-    "http://itv666.cc/aowu/config.webp"
-  ],
   "GitLab 多仓（推荐）": [
     "https://gitlab.com/noimank/tvbox/-/raw/main/tvboxmuti.json"
   ],
