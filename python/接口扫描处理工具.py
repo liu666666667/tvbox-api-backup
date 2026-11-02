@@ -136,7 +136,43 @@ TEMPLATE_CONFIG = {
     "ads": ["static-mozai.4gtv.tv"]
 }
 
+def load_custom_rules():
+    """从仓库根目录的 custom_rules.txt 读取自定义过滤规则。"""
+    path = REPO_ROOT / "custom_rules.txt"
+    if not path.exists():
+        return []
 
+    rules = []
+    current = None
+    with open(path, "r", encoding="utf-8") as f:
+        for raw in f:
+            s = raw.strip()
+            if not s or s.startswith("#"):
+                continue
+
+            # [规则名]
+            if s.startswith("[") and s.endswith("]"):
+                if current and current["regex"]:
+                    rules.append(current)
+                current = {"name": s[1:-1].strip(), "hosts": ["*"], "regex": []}
+                continue
+
+            if current is None:
+                continue
+
+            # hosts=xxx,yyy
+            low = s.lower()
+            if low.startswith("hosts=") or low.startswith("hosts:"):
+                val = s.split("=", 1)[1] if "=" in s else s.split(":", 1)[1]
+                current["hosts"] = [h.strip() for h in val.split(",") if h.strip()]
+                continue
+
+            # 普通行 = 关键词
+            current["regex"].append(s)
+
+    if current and current["regex"]:
+        rules.append(current)
+    return rules
 # ==================== 原有工具函数（完整保留） ====================
 
 def normalize_url(url):
@@ -560,7 +596,26 @@ def build_agg_json(path, new_sites):
             ordered.append(s)
             seen.add(k)
 
-    cfg["sites"] = ordered
+  cfg["sites"] = ordered
+
+    # ===== 从 custom_rules.txt 读取并追加规则（去重） =====
+    cfg.setdefault("rules", [])
+    if not isinstance(cfg["rules"], list):
+        cfg["rules"] = []
+
+    def _rule_fp(r):
+        return json.dumps({
+            "name": r.get("name", ""),
+            "hosts": sorted(r.get("hosts", [])),
+            "regex": sorted(r.get("regex", []))
+        }, ensure_ascii=False, sort_keys=True)
+
+    _seen = {_rule_fp(r) for r in cfg["rules"] if isinstance(r, dict)}
+    for _r in load_custom_rules():
+        if isinstance(_r, dict) and _rule_fp(_r) not in _seen:
+            cfg["rules"].append(_r)
+            _seen.add(_rule_fp(_r))
+    # ===== 新增结束 =====
 
     with open(path, "w", encoding="utf-8") as f:
         json.dump(cfg, f, ensure_ascii=False, indent=2)
