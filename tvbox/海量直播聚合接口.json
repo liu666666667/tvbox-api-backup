@@ -121,6 +121,18 @@
       "source": "饭太硬"
     },
     {
+      "name": "初秋语",
+      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt",
+      "ua": "",
+      "source": "高天流云"
+    },
+    {
+      "name": "Ray",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+      "ua": "",
+      "source": "高天流云"
+    },
+    {
       "name": "Guovin",
       "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u",
       "ua": "",
@@ -217,6 +229,24 @@
       "source": "东篱"
     },
     {
+      "name": "肥猫",
+      "url": "http://我不是.肥猫.live/TV/tvzb.txt",
+      "ua": "okhttp/3.15",
+      "source": "fastly_jsdelivr"
+    },
+    {
+      "name": "SAO0",
+      "url": "https://fastly.jsdelivr.net/gh/liu673cn/box@main/libs/tv/tvlive.txt",
+      "ua": "okhttp/3.15",
+      "source": "fastly_jsdelivr"
+    },
+    {
+      "name": "IPV6",
+      "url": "https://fastly.jsdelivr.net/gh/liu673cn/box@main/lib/tv/ipv6.m3u",
+      "ua": "okhttp/3.15",
+      "source": "fastly_jsdelivr"
+    },
+    {
       "name": "📺简单TV(EXO)",
       "url": "http://iptv.ruyitv.cc/m3u/tv.txt",
       "ua": "okhttp/3.15,AptvPlayer/1.4.1,Mozilla/5.0",
@@ -247,28 +277,52 @@
       "source": "小盒子单仓"
     },
     {
+      "name": "牛播一(新版影视仓/ok影视)",
+      "url": "http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList",
+      "ua": "",
+      "source": "dxawi"
+    },
+    {
+      "name": "IPV4",
+      "url": "https://ghp.ci/raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.txt",
+      "ua": "",
+      "source": "dxawi"
+    },
+    {
+      "name": "IPV6①",
+      "url": "https://ghp.ci/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
+      "ua": "",
+      "source": "dxawi"
+    },
+    {
+      "name": "IPV6②",
+      "url": "https://ghp.ci/raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.m3u",
+      "ua": "",
+      "source": "dxawi"
+    },
+    {
       "name": "superiptv",
       "url": "http://127.0.0.1:5266/iptv.m3u",
       "ua": "",
       "source": "摸鱼"
     },
     {
-      "name": "肥猫",
-      "url": "http://我不是.肥猫.live/TV/tvzb.txt",
-      "ua": "okhttp/3.15",
-      "source": "老刘备"
-    },
-    {
-      "name": "SAO0",
+      "name": "SAO01线",
       "url": "https://raw.liucn.cc/box/libs/tv/tvlive.txt",
       "ua": "okhttp/3.15",
       "source": "老刘备"
     },
     {
-      "name": "IPV6",
+      "name": "IPV61线",
       "url": "https://raw.liucn.cc/box/lib/tv/ipv6.m3u",
       "ua": "okhttp/3.15",
       "source": "老刘备"
+    },
+    {
+      "name": "直播",
+      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+      "ua": "",
+      "source": "俊佬"
     }
   ]
 }
