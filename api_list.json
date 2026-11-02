@@ -69,7 +69,9 @@
   ],
   "dxawi": [
     "https://dxawi.github.io/0/0.json"
-  ]
-
+  ],
+   "广告过滤": [
+     "https://gh-proxy.com/https://raw.githubusercontent.com/liu666666667/tvbox-api-backup/refs/heads/main/tvbox/rule.json"
+   ]
   }
 }
