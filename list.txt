@@ -3,7 +3,7 @@ X4菠菜pro.json|20261102|68.5K|https://0.12yue.de5.net/5/x4pro.json
 X4菠菜园.json|20261102|50.3K|https://0.12yue.de5.net/5/x4.json
 X4少儿频道.json|20261102|19.2K|https://0.12yue.de5.net/5/tv少儿.json
 饭太硬.json|20261102|16.5K|http://www.饭太硬.net/tv
-嗷呜.json|20261102|21.4K|http://www.英格里希嗷呜.top/tv
+嗷呜.json|20261102|21.5K|https://9763.kstore.vip/aowu.json
 王二小.json|20261102|24.3K|https://9280.kstore.vip/aiwex.json
 肥猫.json|20261102|15.3K|http://肥猫.net/tv
 小鱼干.json|20261102|15.5K|http://xhztv.top/dc/小鱼干/api.json
