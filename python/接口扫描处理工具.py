@@ -596,7 +596,7 @@ def build_agg_json(path, new_sites):
             ordered.append(s)
             seen.add(k)
 
-  cfg["sites"] = ordered
+    cfg["sites"] = ordered
 
     # ===== 从 custom_rules.txt 读取并追加规则（去重） =====
     cfg.setdefault("rules", [])
@@ -621,8 +621,6 @@ def build_agg_json(path, new_sites):
         json.dump(cfg, f, ensure_ascii=False, indent=2)
 
     print(f"  -> {path.name}")
-
-
 # ---------- 主入口 ----------
 def main():
     start = time.time()
