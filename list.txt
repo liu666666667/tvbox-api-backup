@@ -17,5 +17,7 @@ X4少儿频道.json|20261102|19.2K|https://0.12yue.de5.net/5/tv少儿.json
 香雅情.json|20261102|22.3K|https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json
 小盒子多仓.json|20261102|1.5K|http://xhztv.top/dc
 GitLab_多仓_推荐_.json|20261102|1.5K|https://gitlab.com/noimank/tvbox/-/raw/main/tvboxmuti.json
+无邪.json|20261102|844B|https://raw.githubusercontent.com/wxrjck/-YSC-/main/yx.txt
+无邪多仓_推荐_.json|20261102|1.1K|https://raw.githubusercontent.com/wxrjck/-YSC-/main/jh.txt
 潇洒.json|20261101|35.6K|https://9877.kstore.space/sun.json
 摸鱼.json|20261028|27.7K|http://我不是.摸鱼儿.top
