@@ -22,7 +22,7 @@ suxuang.m3u|20261102|262.3K|https://gh-proxy.org/https://raw.githubusercontent.c
 SAO0.txt|20261102|71.8K|https://fastly.jsdelivr.net/gh/liu673cn/box@main/libs/tv/tvlive.txt|fastly_jsdelivr|okhttp/3.15|
 简单TVEXO.txt|20261102|3.8K|http://iptv.ruyitv.cc/m3u/tv.txt|网络接口|okhttp/3.15,AptvPlayer/1.4.1,Mozilla/5.0|
 央视TV直播.txt|20261102|184.5K|https://gh-proxy.org/raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt|网络接口|null|
-咪咕TV直播.txt|20261102|48.0K|http://www.52top.com.cn:678/downloads/migu.txt|网络接口|null|
+咪咕TV直播.txt|20261102|102.2K|http://www.52top.com.cn:678/downloads/migu.txt|网络接口|null|
 live1线.txt|20261102|258.5K|http://xhztv.top/xhz/live.txt|小盒子单仓|okhttp/3.15|
 SAO01线.txt|20261102|71.8K|https://raw.liucn.cc/box/libs/tv/tvlive.txt|老刘备|okhttp/3.15|
 简单TVEXO.txt|20261028|3.8K|http://iptv.ruyitv.cc/m3u/tv.txt|网络接口|okhttp/3.15,AptvPlayer/1.4.1,Mozilla/5.0|
