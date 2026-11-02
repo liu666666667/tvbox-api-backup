@@ -47,7 +47,7 @@ jobs:
           
       - name: 清除 live 产物
         run: |
-          python3 strip_lives.py
+          python3 del_lives.py
           rm -rf tvbox/live
         env:
           PYTHONIOENCODING: utf-8
