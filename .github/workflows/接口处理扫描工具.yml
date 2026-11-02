@@ -48,7 +48,7 @@ jobs:
       - name: 清除 live 产物
         run: |
           python3 python/del_lives.py
-          rm -rf tvbox/livebak
+          rm -rf tvbox/live
         env:
           PYTHONIOENCODING: utf-8
       - name: 运行接口扫描处理工具
