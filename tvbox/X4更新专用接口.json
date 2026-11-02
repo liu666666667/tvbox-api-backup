@@ -124,13 +124,6 @@
       "url": "https://183933.xyz/xiaye.php?url="
     }
   ],
-  "lives": [
-    {
-      "name": "Guovin",
-      "type": 0,
-      "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u"
-    }
-  ],
   "rules": [
     {
       "name": "农民",
