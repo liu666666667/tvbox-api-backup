@@ -1,26 +1,89 @@
 {
   "API_LIST": [
-    ["X4更新专用接口", "https://0.12yue.de5.net/0/666"],
-    ["X4菠菜pro", "https://0.12yue.de5.net/5/x4pro.json"],
-    ["X4菠菜园", "https://0.12yue.de5.net/5/x4.json"],
-    ["X4少儿频道", "https://0.12yue.de5.net/5/tv少儿.json"],
-    ["肥猫", "http://肥猫.net/tv"],
-    ["小鱼干", "http://xhztv.top/dc/小鱼干/api.json"],
-    ["小盒子单仓", "http://xhztv.top/xhz"],
-    ["4K小盒子", "http://xhztv.top/4k.json"],
-    ["老刘备", "https://raw.liucn.cc/box/m.json"],
-    ["小马", "https://szyyds.cn/tv/x.json"],
-    ["网络接口", "https://8815.kstore.vip/tvbox/wmz"],
-    ["虎斑", "http://hb.小虎斑.site:25252/仅供测试"],
-    ["东篱", "https://16151.kstore.space"],
-    ["香雅情", "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"],
-    ["天微多仓", "https://tvkj.top/DC.txt"],
-    ["无邪","https://gh-proxy.com/https://raw.githubusercontent.com/wxrjck/-YSC-/main/yx.txt"],
-    ["分享者", "https://ghproxy.net/https://raw.githubusercontent.com/maoystv/6/main/001.json"],
-    ["高天流云","https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"],
-    ["俊佬", "http://home.jundie.top:81/top98.json"],
-["fastly-jsdelivr", "https://fastly.jsdelivr.net/gh/liu673cn/box@main/m.json"],
-["pastebin", "https://pastebin.com/raw/gtbKvnE1"]
+    [
+      "X4更新专用接口",
+      "https://0.12yue.de5.net/0/666"
+    ],
+    [
+      "X4菠菜pro",
+      "https://0.12yue.de5.net/5/x4pro.json"
+    ],
+    [
+      "X4菠菜园",
+      "https://0.12yue.de5.net/5/x4.json"
+    ],
+    [
+      "X4少儿频道",
+      "https://0.12yue.de5.net/5/tv少儿.json"
+    ],
+    [
+      "肥猫",
+      "http://肥猫.net/tv"
+    ],
+    [
+      "小鱼干",
+      "http://xhztv.top/dc/小鱼干/api.json"
+    ],
+    [
+      "小盒子单仓",
+      "http://xhztv.top/xhz"
+    ],
+    [
+      "4K小盒子",
+      "http://xhztv.top/4k.json"
+    ],
+    [
+      "老刘备",
+      "https://raw.liucn.cc/box/m.json"
+    ],
+    [
+      "小马",
+      "https://szyyds.cn/tv/x.json"
+    ],
+    [
+      "网络接口",
+      "https://8815.kstore.vip/tvbox/wmz"
+    ],
+    [
+      "虎斑",
+      "http://hb.小虎斑.site:25252/仅供测试"
+    ],
+    [
+      "东篱",
+      "https://16151.kstore.space"
+    ],
+    [
+      "香雅情",
+      "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
+    ],
+    [
+      "天微多仓",
+      "https://tvkj.top/DC.txt"
+    ],
+    [
+      "无邪",
+      "https://gh-proxy.com/https://raw.githubusercontent.com/wxrjck/-YSC-/main/yx.txt"
+    ],
+    [
+      "分享者",
+      "https://ghproxy.net/https://raw.githubusercontent.com/maoystv/6/main/001.json"
+    ],
+    [
+      "高天流云",
+      "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
+    ],
+    [
+      "俊佬",
+      "http://home.jundie.top:81/top98.json"
+    ],
+    [
+      "fastly-jsdelivr",
+      "https://fastly.jsdelivr.net/gh/liu673cn/box@main/m.json"
+    ],
+    [
+      "pastebin",
+      "https://pastebin.com/raw/gtbKvnE1"
+    ]
   ],
   "API_MIRRORS": {
     "饭太硬": [
@@ -40,38 +103,38 @@
       "https://9763.kstore.vip/aowu.json",
       "http://itv666.cc/aowu/config.webp"
     ],
-      "小盒子多仓": [
-    "http://xhztv.top/dc"
-   ],
-  "拾光多仓": [
-    "http://xmbjm.fh4u.org/dc.txt"
-   ],
-  "挺好分享多仓": [
-    "http://ztha.top/TVBox/GYCK.json"
-   ],
-  "GitLab 多仓（推荐）": [
-    "https://gitlab.com/noimank/tvbox/-/raw/main/tvboxmuti.json"
-  ],
-  "无邪多仓（推荐）": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wxrjck/-YSC-/main/jh.txt"
-  ],
-  "艾丝沐": [
-    "http://tv.aisimu.cn/tv/all.json"
-  ],
-  "应用多多": [
-    "https://jihulab.com/duomv/apps/-/raw/main/fast.json"
-  ],
-  "凯弟多仓": [
-    "https://jihulab.com/jyqhkd1/jk/-/raw/main/8.json"
-  ],
-  "z.qiqiv.cn": [
-    "http://z.qiqiv.cn/123"
-  ],
-  "dxawi": [
-    "https://dxawi.github.io/0/0.json"
-  ],
-   "广告过滤": [
-     "https://gh-proxy.com/https://raw.githubusercontent.com/liu666666667/tvbox-api-backup/refs/heads/main/tvbox/rule.json"
-   ]
+    "小盒子多仓": [
+      "http://xhztv.top/dc"
+    ],
+    "拾光多仓": [
+      "http://xmbjm.fh4u.org/dc.txt"
+    ],
+    "挺好分享多仓": [
+      "http://ztha.top/TVBox/GYCK.json"
+    ],
+    "GitLab 多仓（推荐）": [
+      "https://gitlab.com/noimank/tvbox/-/raw/main/tvboxmuti.json"
+    ],
+    "无邪多仓（推荐）": [
+      "https://gh-proxy.com/https://raw.githubusercontent.com/wxrjck/-YSC-/main/jh.txt"
+    ],
+    "艾丝沐": [
+      "http://tv.aisimu.cn/tv/all.json"
+    ],
+    "应用多多": [
+      "https://jihulab.com/duomv/apps/-/raw/main/fast.json"
+    ],
+    "凯弟多仓": [
+      "https://jihulab.com/jyqhkd1/jk/-/raw/main/8.json"
+    ],
+    "z.qiqiv.cn": [
+      "http://z.qiqiv.cn/123"
+    ],
+    "dxawi": [
+      "https://dxawi.github.io/0/0.json"
+    ],
+    "广告过滤": [
+      "https://gh-proxy.com/https://raw.githubusercontent.com/liu666666667/tvbox-api-backup/refs/heads/main/tvbox/rule.json"
+    ]
   }
 }
