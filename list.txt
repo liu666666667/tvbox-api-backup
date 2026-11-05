@@ -26,6 +26,10 @@ fastly_jsdelivr.json|20261105|87.9K|https://fastly.jsdelivr.net/gh/liu673cn/box@
 z_qiqiv_cn.json|20261105|1.3K|http://z.qiqiv.cn/123
 dxawi.json|20261105|14.1K|https://dxawi.github.io/0/0.json
 广告过滤.json|20261105|151B|https://raw.githubusercontent.com/liu666666667/tvbox-api-backup/refs/heads/main/tvbox/rule.json
-肥猫.json|20261103|15.4K|http://肥猫.net/tv
+肥猫.json|20261105|15.8K|http://肥猫.net
+摸鱼儿.json|20261105|27.9K|https://www.y456y.com
+创享影视.json|20261105|2.7K|https://ys.cxkjg.cn/api/provide/tvbox
+伦理接口.json|20261105|28.0K|http://47.96.82.41:5188/rose/18/xgg.json
+无名.json|20261105|28.6K|https://6800.kstore.vip/fish.json
 潇洒.json|20261101|35.6K|https://9877.kstore.space/sun.json
 摸鱼.json|20261028|27.7K|http://我不是.摸鱼儿.top
