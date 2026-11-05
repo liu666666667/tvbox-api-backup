@@ -60,6 +60,18 @@ modudongman|🍀魔都动漫|type: 1|api: https://caiji.moduapi.cc/api.php/provi
 hongniu3|🍀红牛资源3|type: 1|api: https://www.hongniuzy3.com/api.php/provide/vod
 suonisd|🍀索尼-闪电|type: 1|api: https://xsd.sdzyapi.com/api.php/provide/vod
 说明|⚠️说明|type: 1|api: https://gh-proxy.com/https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/x/lib/多地址说明.json
+创享影视|🌟 创享影视|type: 1|api: https://ys.cxkjg.cn/api/provide/vod
+source_2680151544|📡 金鹰|type: 1|api: https://ys.cxkjg.cn/api/provide/vod?source=2680151544
+source_3848762792|📡 闪电|type: 1|api: https://ys.cxkjg.cn/api/provide/vod?source=3848762792
+source_1840804598|📡 非凡|type: 1|api: https://ys.cxkjg.cn/api/provide/vod?source=1840804598
+source_1470828922|📡 量子|type: 1|api: https://ys.cxkjg.cn/api/provide/vod?source=1470828922
+source_4118858385|📡 WS|type: 1|api: https://ys.cxkjg.cn/api/provide/vod?source=4118858385
+source_1016684692|📡 速博|type: 1|api: https://ys.cxkjg.cn/api/provide/vod?source=1016684692
+source_1208629981|📡 HD(SN)|type: 1|api: https://ys.cxkjg.cn/api/provide/vod?source=1208629981
+source_2761253814|📡 红牛|type: 1|api: https://ys.cxkjg.cn/api/provide/vod?source=2761253814
+source_4194624554|📡 U酷|type: 1|api: https://ys.cxkjg.cn/api/provide/vod?source=4194624554
+source_4247318859|📡 光速|type: 1|api: https://ys.cxkjg.cn/api/provide/vod?source=4247318859
+source_531717376|📡 樱花|type: 1|api: https://ys.cxkjg.cn/api/provide/vod?source=531717376
 360资源|🍀｜360｜采集|type: 1|api: https://360zy.com/api.php/seaxml/vod/
 csp_小胡|👒┃小胡┃资源┃|type: 1|api: http://c.小胡.icu/api.php/provide/vod/
 taopian|🕹️淘片┃采集|type: 1|api: https://taopianapi.com/cjapi/mc/vod/json.html
@@ -69,6 +81,14 @@ feisu|🛰️飞速┃采集|type: 1|api: https://www.feisuzyapi.com/api.php/pro
 可可资源|⛱┃可可┃采集|type: 1|api: https://kekezy1.com/api.php/provide/vod/?ac=list
 虎牙|🐯虎牙采集|type: 1|api: https://www.huyaapi.com/api.php/provide/vod/from/hym3u8
 MV_vod|🎶明星┃MV|type: 1|api: https://mv.wogg.link/mv/vod
+艾旦影视|🧿艾旦┃蓝光|type: 1|api: https://lovedan.net/api.php/provide/vod/
+lebo|🧿乐播┃资源|type: 1|api: https://lbapi9.com/api.php/provide/vod/at/json/?ac=list
+dadi|🧿量子┃资源|type: 1|api: https://cj.lziapi.com/api.php/provide/vod/?ac=list
+gay|🧿gay┃资源|type: 1|api: https://slapibf.com/api.php/provide/vod/?ac=list
+taohua|🧿桃花┃资源|type: 1|api: https://thzy1.me/api.php/provide/vod/?ac=list
+zp011|🧿正品┃影视|type: 1|api: https://lbapi9.com/api.php/provide/vod/
+大地专场|🧿大地┃采集|type: 0|api: https://dadiapi.com/api.php
+fh资源|🧿凤凰┃影视|type: 1|api: http://fhapi9.com/api.php/provide/vod/
 巨量|巨量 • 影视|type: 1|api: https://api.juliang.live/api/provide/vod
 IK|IK|type: 1|api: https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/
 haiwaikan|海外看(墙外)|type: 1|api: https://haiwaikan.com/api.php/provide/vod

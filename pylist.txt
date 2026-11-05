@@ -18,6 +18,7 @@ shanzha4k|🍒山楂丨蓝光秒播|type: 3|api: https://gh-proxy.com/https://ra
 果果短剧|🍎果果丨短剧爽看|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/master/py/hgtv.py
 kwms|🎶裤硪丨音乐合集|type: 3|api: https://wget.la/raw.githubusercontent.com/tushen6/Tomorrow/master/py/kuwo.py
 yuetingba|🍊悦听吧|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/James/main/py/悦听吧.py
+吃瓜|🧿我要┃吃瓜|type: 3|api: https://rose.tvdog.top/51chigua.py
 红果短剧|红果 • 短剧|type: 3|api: https://oss-v1.wangmeipo.cn/236/红果短剧.py
 世界听书|世界 • 听书|type: 3|api: https://oss-v1.wangmeipo.cn/236/世界听书.py
 枫叶音乐|🍁枫叶丨音乐合集|type: 3|api: https://mpimg.cn/down.php/2090fedb67387ea1a1ad908a94eb0aa6.py

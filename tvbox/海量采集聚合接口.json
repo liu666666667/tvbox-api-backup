@@ -749,6 +749,186 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "创享影视",
+      "name": "🌟 创享影视",
+      "type": 1,
+      "api": "https://ys.cxkjg.cn/api/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_2680151544",
+      "name": "📡 金鹰",
+      "type": 1,
+      "api": "https://ys.cxkjg.cn/api/provide/vod?source=2680151544",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_3848762792",
+      "name": "📡 闪电",
+      "type": 1,
+      "api": "https://ys.cxkjg.cn/api/provide/vod?source=3848762792",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_1840804598",
+      "name": "📡 非凡",
+      "type": 1,
+      "api": "https://ys.cxkjg.cn/api/provide/vod?source=1840804598",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_1470828922",
+      "name": "📡 量子",
+      "type": 1,
+      "api": "https://ys.cxkjg.cn/api/provide/vod?source=1470828922",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_4118858385",
+      "name": "📡 WS",
+      "type": 1,
+      "api": "https://ys.cxkjg.cn/api/provide/vod?source=4118858385",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_1016684692",
+      "name": "📡 速博",
+      "type": 1,
+      "api": "https://ys.cxkjg.cn/api/provide/vod?source=1016684692",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_1208629981",
+      "name": "📡 HD(SN)",
+      "type": 1,
+      "api": "https://ys.cxkjg.cn/api/provide/vod?source=1208629981",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_2761253814",
+      "name": "📡 红牛",
+      "type": 1,
+      "api": "https://ys.cxkjg.cn/api/provide/vod?source=2761253814",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_4194624554",
+      "name": "📡 U酷",
+      "type": 1,
+      "api": "https://ys.cxkjg.cn/api/provide/vod?source=4194624554",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_4247318859",
+      "name": "📡 光速",
+      "type": 1,
+      "api": "https://ys.cxkjg.cn/api/provide/vod?source=4247318859",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_531717376",
+      "name": "📡 樱花",
+      "type": 1,
+      "api": "https://ys.cxkjg.cn/api/provide/vod?source=531717376",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "艾旦影视",
+      "name": "🧿艾旦┃蓝光",
+      "type": 1,
+      "api": "https://lovedan.net/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lebo",
+      "name": "🧿乐播┃资源",
+      "type": 1,
+      "api": "https://lbapi9.com/api.php/provide/vod/at/json/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "dadi",
+      "name": "🧿量子┃资源",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "gay",
+      "name": "🧿gay┃资源",
+      "type": 1,
+      "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "taohua",
+      "name": "🧿桃花┃资源",
+      "type": 1,
+      "api": "https://thzy1.me/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "zp011",
+      "name": "🧿正品┃影视",
+      "type": 1,
+      "api": "https://lbapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "大地专场",
+      "name": "🧿大地┃采集",
+      "type": 0,
+      "api": "https://dadiapi.com/api.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "fh资源",
+      "name": "🧿凤凰┃影视",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ],
   "parses": [
