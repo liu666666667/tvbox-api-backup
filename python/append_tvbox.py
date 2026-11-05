@@ -2,10 +2,8 @@ import json
 import pathlib
 import urllib.request
 
-# ⚠️ 改成你自己 Fork 的 Raw 地址
 SRC = "https://raw.githubusercontent.com/liu666666667/awesome-zhuiju-free/main/resources/resources.json"
-
-MY_FILE = pathlib.Path("api_list.json")   # 你的文件名，不用改
+MY_FILE = pathlib.Path("api_list.json")
 WANTED = {"tvbox_config"}
 
 def norm(u: str) -> str:
@@ -43,9 +41,9 @@ for it in items:
     if it.get("category") not in WANTED:
         continue
 
-    avail = (it.get("availability") or {}).get("status")
+    # 只排除明确不可用的，caution 放行
     verify = (it.get("verification") or {}).get("status")
-    if avail != "reachable" or verify != "verified":
+    if verify in ("removed", "temporarily_unavailable"):
         continue
 
     url = (it.get("link_url") or it.get("url") or "").strip()
