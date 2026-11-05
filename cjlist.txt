@@ -1,7 +1,7 @@
 电影天堂|️天堂┃采集|type: 1|api: http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/
 天涯采集|影视 | 天涯|type: 1|api: http://tyyszy.com/api.php/provide/vod
 量子|影视 | 量子[直连]|type: 1|api: https://cj.lziapi.com/api.php/provide/vod/
-非凡|影视 | 非凡[直连]|type: 1|api: http://ffzy.tv/api.php/provide/vod/
+非凡|🍀｜非凡｜采集|type: 1|api: http://cj.ffzyapi.com/api.php/provide/vod/
 索尼|影视 | 索尼[直连]|type: 0|api: https://suoniapi.com/api.php/provide/vod/at/xml/
 极速资源|影视 | 极速[直连]|type: 1|api: https://jszyapi.com/api.php/provide/vod/?ac=list
 建安采集|影视 | 建安|type: 1|api: http://154.219.117.232:9981/jacloudapi.php/provide/vod
@@ -13,14 +13,19 @@
 闪电资源|闪电资源(切)|type: 1|api: http://sdzyapi.com/api.php/provide/vod/
 光速资源|光速资源(切)|type: 1|api: https://api.guangsuapi.com/api.php/provide/vod/
 新浪资源|新浪资源(切)|type: 1|api: http://api.xinlangapi.com/xinlangapi.php/provide/vod/
-柚子资源|🍊柚子资源|type: 0|api: https://api.yzzy-api.com/inc/api.php
+360资源|🍀｜360｜采集|type: 1|api: https://360zy.com/api.php/seaxml/vod/
+说明|⚠️使用说明|type: 1|api: https://gh-proxy.com/raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/x/lib/使用说明.json
+小灯塔科学|🌏小灯塔科学|type: 1|api: csp_Bili
+暴风|暴风|type: 1|api: https://bfzyapi.com/api.php/provide/vod
+IK|IK|type: 1|api: https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/
+haiwaikan|海外看(墙外)|type: 1|api: https://haiwaikan.com/api.php/provide/vod
+巨量|巨量 • 影视|type: 1|api: https://api.juliang.live/api/provide/vod
 aqyzy|🍀蜜源|type: 1|api: https://iqiyizyapi.com/api.php/provide/vod
 ds05|🍀都司资源|type: 0|api: http://y.ds05.cn/zyapi.php
 feifan|🍀非凡资源|type: 1|api: http://ffzy5.tv/api.php/provide/vod
 wolong|🍀卧龙资源|type: 1|api: https://wolongzyw.com/api.php/provide/vod
 zuida|🍀最大资源|type: 1|api: https://api.zuidapi.com/api.php/provide/vod
 baiduyun|🍀百度云资源|type: 1|api: https://api.apibdzy.com/api.php/provide/vod
-baofeng|🍀暴风资源|type: 1|api: https://bfzyapi.com/api.php/provide/vod
 jisu|🍀极速资源|type: 1|api: https://jszyapi.com/api.php/provide/vod
 tianya|🍀天涯资源|type: 1|api: https://tyyszy.com/api.php/provide/vod
 wujin|🍀无尽资源|type: 1|api: https://api.wujinapi.com/api.php/provide/vod
@@ -31,7 +36,6 @@ huya|🍀虎牙资源|type: 1|api: https://www.huyaapi.com/api.php/provide/vod
 haihua|🍀海豚资源|type: 1|api: https://hhzyapi.com/api.php/provide/vod
 jiangyu|🍀鲸鱼资源|type: 1|api: https://jyzyapi.com/provide/vod
 feifanapi|🍀非凡API|type: 1|api: https://api.ffzyapi.com/api.php/provide/vod
-feifancj|🍀非凡采集|type: 1|api: http://cj.ffzyapi.com/api.php/provide/vod
 feifancj2|🍀非凡采集HTTPS|type: 1|api: https://cj.ffzyapi.com/api.php/provide/vod
 feifan1|🍀非凡线路1|type: 1|api: http://ffzy1.tv/api.php/provide/vod
 wolong2|🍀卧龙采集|type: 1|api: https://collect.wolongzyw.com/api.php/provide/vod
@@ -59,8 +63,7 @@ piaoling|🍀飘零资源|type: 1|api: https://p2100.net/api.php/provide/vod
 modudongman|🍀魔都动漫|type: 1|api: https://caiji.moduapi.cc/api.php/provide/vod
 hongniu3|🍀红牛资源3|type: 1|api: https://www.hongniuzy3.com/api.php/provide/vod
 suonisd|🍀索尼-闪电|type: 1|api: https://xsd.sdzyapi.com/api.php/provide/vod
-说明|⚠️说明|type: 1|api: https://gh-proxy.com/https://raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/x/lib/多地址说明.json
-360资源|🍀｜360｜采集|type: 1|api: https://360zy.com/api.php/seaxml/vod/
+柚子资源|🍊柚子资源|type: 0|api: https://api.yzzy-api.com/inc/api.php
 csp_小胡|👒┃小胡┃资源┃|type: 1|api: http://c.小胡.icu/api.php/provide/vod/
 taopian|🕹️淘片┃采集|type: 1|api: https://taopianapi.com/cjapi/mc/vod/json.html
 49zy|🦁┃四九┃资源|type: 1|api: https://49zy1.com/api.php/provide/vod/?ac=list
@@ -69,10 +72,8 @@ feisu|🛰️飞速┃采集|type: 1|api: https://www.feisuzyapi.com/api.php/pro
 可可资源|⛱┃可可┃采集|type: 1|api: https://kekezy1.com/api.php/provide/vod/?ac=list
 虎牙|🐯虎牙采集|type: 1|api: https://www.huyaapi.com/api.php/provide/vod/from/hym3u8
 MV_vod|🎶明星┃MV|type: 1|api: https://mv.wogg.link/mv/vod
-巨量|巨量 • 影视|type: 1|api: https://api.juliang.live/api/provide/vod
-IK|IK|type: 1|api: https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/
-haiwaikan|海外看(墙外)|type: 1|api: https://haiwaikan.com/api.php/provide/vod
-小灯塔科学|🌏小灯塔科学|type: 1|api: csp_Bili
+baofeng|🍀暴风资源|type: 1|api: https://bfzyapi.com/api.php/provide/vod
+feifancj|🍀非凡采集|type: 1|api: http://cj.ffzyapi.com/api.php/provide/vod
 dytt|🍀电影天堂|type: 1|api: http://caiji.dyttzyapi.com/api.php/provide/vod
 hongniu|🍀红牛资源|type: 1|api: https://www.hongniuzy2.com/api.php/provide/vod
 guangsu|🍀光速资源|type: 1|api: https://api.guangsuapi.com/api.php/provide/vod
