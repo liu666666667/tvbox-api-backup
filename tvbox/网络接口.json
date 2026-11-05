@@ -1165,18 +1165,6 @@
       "changeable": 0
     }
   ],
-  "lives": [
-    {
-      "name": "咪咕TV直播",
-      "type": 1,
-      "url": "http://www.52top.com.cn:678/downloads/migu.txt"
-    },
-    {
-      "name": "央视TV直播",
-      "type": 1,
-      "url": "https://gh-proxy.org/raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt"
-    }
-  ],
   "parses": [
     {
       "name": "聚合",
