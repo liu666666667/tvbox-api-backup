@@ -1,13 +1,6 @@
 {
   "spider": "https://0.12yue.de5.net/5/lib/p.jar",
   "logo": "https://0.12yue.de5.net/5/lib/jueson.jpg",
-  "lives": [
-    {
-      "name": "Guovin",
-      "type": 0,
-      "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u"
-    }
-  ],
   "sites": [
     {
       "key": "jueson",
