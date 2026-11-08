@@ -1,5 +1,5 @@
 {
-  "spider": "https://raw.gitcode.com/2501_90909032/oooo/blobs/2656bd2198582f73a288c5bcbcb8c9ffd64d437c/261108.jar;md5;544e46e7d7c6f5e4c7d78e23e12d5296",
+  "spider": "https://raw.gitcode.com/2501_90909032/oooo/blobs/0c167109e076dafeaa00eb290f0a6a7066d8cad1/261109.jar;md5;90c0abaae77e90bf37095fd2ada162e3",
   "wallpaper": "https://t.alcy.cc/fj",
   "logo": "https://img.meituan.net/poiugc/018d4112d5aaf3d0982bb6bbc2bf71b2292451.gif",
   "sites": [
@@ -446,16 +446,6 @@
       "filterable": 1
     },
     {
-      "key": "影探",
-      "name": "🌌影探丨4K资源",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/James/main/py/影探4K.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "gulu",
       "name": "🐧咕噜丨蓝光秒播",
       "type": 3,
@@ -499,7 +489,6 @@
       "api": "csp_App99",
       "ext": {
         "host": "http://103.217.190.91:19987/app/bn",
-        "appkey": "https://8815.kstore.vip/tvbox/24d625a8a29b4700a1a294c6f3b29e2c",
         "versionName": "https://8815.kstore.vip/tvbox/3.5.8",
         "name": "https://8815.kstore.vip/tvbox/半日闲",
         "package": "https://8815.kstore.vip/tvbox/com.yf.lelian",
@@ -587,6 +576,16 @@
         "dataKey": "1234567887654321",
         "dataIv": "1234567887654321"
       }
+    },
+    {
+      "key": "ixcyy",
+      "name": "🏡澜星丨蓝光影视",
+      "type": 3,
+      "api": "csp_Ixcyy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.ixcyy.tv"
     },
     {
       "key": "爱看机器人",
@@ -1163,6 +1162,18 @@
       "searchable": 0,
       "filterable": 0,
       "changeable": 0
+    }
+  ],
+  "lives": [
+    {
+      "name": "咪咕TV直播",
+      "type": 1,
+      "url": "http://www.52top.com.cn:678/downloads/migu.txt"
+    },
+    {
+      "name": "央视TV直播",
+      "type": 1,
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt"
     }
   ],
   "parses": [
