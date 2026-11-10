@@ -1,5 +1,5 @@
 {
-  "spider": "https://nos.netease.com/vcloud-statistic/nrtc/0286b8d7-091c-456f-ad86-f17f7ec93778.png;md5;2dd93067babd96be152a4ef45e2ce7f8",
+  "spider": "https://nos.netease.com/vcloud-statistic/nrtc/ebab8029-2b87-42f8-a964-ec1ca3de4052.png;md5;bb065fc30372ceee6fb15feec0c6a5fe",
   "logo": "https://file.icve.com.cn/file_doc/945/35/EC508FBD046D33EC4832BB76B63B6C94.gif",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=AowuWapper&mode=2",
   "sites": [
@@ -485,13 +485,13 @@
     },
     {
       "name": "⭐橘汁┃快速",
-      "key": "Woshinidie",
+      "key": "Juzhi",
       "type": 3,
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/35012678-318a-469d-866b-00e9d74468df.png;md5;528450abfa7bbee80d68034ae045a1f6",
-      "api": "csp_Woshinidie",
+      "api": "csp_JuzhiAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "ext": "http://www.英格里希嗷呜.top/Juzhi"
     },
     {
       "name": "⭐热播┃快速",
@@ -835,6 +835,60 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 1
+    }
+  ],
+  "lives": [
+    {
+      "name": "Kimentanm",
+      "type": 0,
+      "url": "https://down.nigx.cn/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "playerType": 2
+    },
+    {
+      "name": "综合直播",
+      "type": 0,
+      "playerType": 2,
+      "url": "http://193.123.86.190:14888/TV/iptv.php",
+      "ua": "bingcha/1.1 (mianfeifenxiang) "
+    },
+    {
+      "key": "KafLive",
+      "name": "咖啡体育",
+      "type": 3,
+      "api": "csp_KafLiveAmns",
+      "playerType": 2
+    },
+    {
+      "name": "虎牙一起看",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/huyayqk.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.5.0.0"
+    },
+    {
+      "name": "斗鱼一起看",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.5.0.0"
+    },
+    {
+      "name": "B站直播",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/bililive.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.5.0.0"
+    },
+    {
+      "name": "YY轮播",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/yylunbo.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.5.0.0"
     }
   ],
   "parses": [
