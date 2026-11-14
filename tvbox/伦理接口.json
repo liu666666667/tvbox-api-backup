@@ -219,25 +219,5 @@
       "filterable": 1
     }
   ],
-  "parses": [],
-  "lives": [
-    {
-      "name": "电视狗",
-      "type": 0,
-      "url": "https://zb.7778.uk",
-      "epg": ""
-    },
-    {
-      "name": "电视狗",
-      "type": 0,
-      "url": "http://47.120.41.246:8025/vip/jar/zb.php",
-      "epg": ""
-    },
-    {
-      "name": "电视狗 ",
-      "type": 0,
-      "url": "https://zb.7778.uk/starlink.m3u",
-      "epg": ""
-    }
-  ]
+  "parses": []
 }
