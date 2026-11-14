@@ -538,6 +538,17 @@
       }
     }
   ],
+  "lives": [
+    {
+      "name": "Gather「果」",
+      "type": 3,
+      "url": "https://down.nigx.cn/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "epg": "https://material.1989.click/epg.xml.gz",
+      "ua": "okhttp/3.8.1",
+      "timeout": 10,
+      "playerType": 2
+    }
+  ],
   "rules": [
     {
       "name": "♻️量非",
