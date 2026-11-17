@@ -1,5 +1,5 @@
 {
-  "spider": "https://raw.gitcode.com/2501_90909032/oooo/blobs/b52791313dd311f18ffbf058801d2cf834e4e366/261114.jar;md5;8bee4284c54ee00d3a2c347460de83a3",
+  "spider": "https://raw.gitcode.com/2501_90909032/oooo/blobs/b5e0efdcc60c22be1d36f28a951b70ca0fe7d996/2611161.jar;md5;d34a759dce2a9f61701fe02e7f268bc2",
   "wallpaper": "https://t.alcy.cc/fj",
   "logo": "https://img.meituan.net/poiugc/018d4112d5aaf3d0982bb6bbc2bf71b2292451.gif",
   "sites": [
@@ -450,16 +450,6 @@
       "name": "🐧咕噜丨蓝光秒播",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/James/main/py/咕噜咕噜.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "shanzha4k",
-      "name": "🍒山楂丨蓝光秒播",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/py/山楂4K.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -1162,6 +1152,18 @@
       "searchable": 0,
       "filterable": 0,
       "changeable": 0
+    }
+  ],
+  "lives": [
+    {
+      "name": "咪咕TV直播",
+      "type": 1,
+      "url": "http://www.52top.com.cn:678/downloads/migu.txt"
+    },
+    {
+      "name": "央视TV直播",
+      "type": 1,
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt"
     }
   ],
   "parses": [
