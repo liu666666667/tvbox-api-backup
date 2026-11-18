@@ -1260,13 +1260,5 @@
       }
     }
   ],
-  "lives": [
-    {
-      "name": "superiptv",
-      "type": 0,
-      "url": "http://127.0.0.1:5266/iptv.m3u",
-      "playerType": 2
-    }
-  ],
   "parses": []
 }
