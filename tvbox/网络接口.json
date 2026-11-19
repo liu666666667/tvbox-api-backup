@@ -1,5 +1,5 @@
 {
-  "spider": "https://raw.gitcode.com/2501_90909032/oooo/blobs/b5e0efdcc60c22be1d36f28a951b70ca0fe7d996/2611161.jar;md5;d34a759dce2a9f61701fe02e7f268bc2",
+  "spider": "https://raw.gitcode.com/2501_90909032/oooo/blobs/86fc1ffcb5567476975601a0f566f1dcea324d92/261119.jar;md5;2924443411a00e2388658bb2ec44f47a",
   "wallpaper": "https://t.alcy.cc/fj",
   "logo": "https://img.meituan.net/poiugc/018d4112d5aaf3d0982bb6bbc2bf71b2292451.gif",
   "sites": [
@@ -63,6 +63,7 @@
       "changeable": 1,
       "ext": {
         "site": [
+          "https://woggpan.888484.xyz",
           "https://wogg.xxooo.cf",
           "http://www.wogg.live",
           "https://www.wogg.net",
@@ -540,6 +541,23 @@
         "version": "https://8815.kstore.vip/tvbox/3.0.2.4",
         "decrypt": "1"
       }
+    },
+    {
+      "key": "AppWL",
+      "name": "🌀未来丨蓝光秒播",
+      "type": 3,
+      "api": "csp_AppWL",
+      "searchable": 1,
+      "quick": 1
+    },
+    {
+      "key": "AppYB",
+      "name": "☁️云播丨蓝光秒播",
+      "type": 3,
+      "api": "csp_AppYB",
+      "searchable": 1,
+      "quick": 1,
+      "filterable": 1
     },
     {
       "key": "独播影视",
@@ -1152,6 +1170,18 @@
       "searchable": 0,
       "filterable": 0,
       "changeable": 0
+    }
+  ],
+  "lives": [
+    {
+      "name": "咪咕TV直播",
+      "type": 1,
+      "url": "http://www.52top.com.cn:678/downloads/migu.txt"
+    },
+    {
+      "name": "央视TV直播",
+      "type": 1,
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt"
     }
   ],
   "parses": [
