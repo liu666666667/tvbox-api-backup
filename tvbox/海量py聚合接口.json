@@ -59,18 +59,18 @@
     },
     {
       "key": "七星短剧",
-      "name": "🌟丨七星丨短剧",
+      "name": "🎬七星丨短剧",
       "type": 3,
-      "api": "https://mpimg.cn/down.php/48e9d346cdf6da376c53136693bec95a.py",
+      "api": "https://0.12yue.de5.net/5/lib/qxdj.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
       "key": "星芽短剧",
-      "name": "🌟丨星芽丨短剧",
+      "name": "🎬星芽┃短剧",
       "type": 3,
-      "api": "https://chigua.eu.org/py/星芽短剧.py",
+      "api": "https://0.12yue.de5.net/5/lib/星芽短剧.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -86,9 +86,9 @@
     },
     {
       "key": "网络直播",
-      "name": "🌇｜网络｜直播",
+      "name": "📺网络┃直播",
       "type": 3,
-      "api": "https://chigua.eu.org/py/网络直播.py",
+      "api": "https://0.12yue.de5.net/5/lib/网络直播.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
