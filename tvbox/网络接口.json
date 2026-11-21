@@ -1,5 +1,5 @@
 {
-  "spider": "https://raw.gitcode.com/2501_90909032/oooo/blobs/86fc1ffcb5567476975601a0f566f1dcea324d92/261119.jar;md5;2924443411a00e2388658bb2ec44f47a",
+  "spider": "https://raw.gitcode.com/2501_90909032/oooo/blobs/e724ea7f0931723a79d17e0f0d23b401ae8f38c8/261121.jar;md5;5670e3727a069c25f59c2ee616c50daa",
   "wallpaper": "https://t.alcy.cc/fj",
   "logo": "https://img.meituan.net/poiugc/018d4112d5aaf3d0982bb6bbc2bf71b2292451.gif",
   "sites": [
@@ -533,12 +533,12 @@
       "ext": {
         "appName": "https://8815.kstore.vip/tvbox/橘汁",
         "publicKey": "https://8815.kstore.vip/tvbox/MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-        "dataKey": "https://8815.kstore.vip/tvbox/OW1WBLFZCLJ0WTNJQMRSZ2DYSGNBPT0=",
+        "dataKey": "https://8815.kstore.vip/tvbox/ZU1DSFFWNENKMDYXVUQRN0ZJDUC4PQ==",
         "dataIv": "https://8815.kstore.vip/tvbox/OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "https://8815.kstore.vip/tvbox/com.mxj.wylcjbxyx",
+        "pkg": "https://8815.kstore.vip/tvbox/com.asjdhjhd.mgd.p3",
         "host": "",
-        "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
-        "version": "https://8815.kstore.vip/tvbox/3.0.2.4",
+        "site": "https://1848463092.cdn.123clouddisk.com/1848463092/cct/az.txt",
+        "version": "https://8815.kstore.vip/tvbox/3.0.7.0",
         "decrypt": "1"
       }
     },
@@ -614,13 +614,6 @@
       "filterable": 1,
       "playerType": 2,
       "ext": "http://39.105.18.5:5565/api.php/app/"
-    },
-    {
-      "key": "Sao火",
-      "name": "🔥Sao火丨蓝光影视",
-      "type": 3,
-      "api": "csp_SaoHuo",
-      "ext": "https://shdy5.us"
     },
     {
       "key": "一起",
@@ -1170,6 +1163,18 @@
       "searchable": 0,
       "filterable": 0,
       "changeable": 0
+    }
+  ],
+  "lives": [
+    {
+      "name": "咪咕TV直播",
+      "type": 1,
+      "url": "http://www.52top.com.cn:678/downloads/migu.txt"
+    },
+    {
+      "name": "央视TV直播",
+      "type": 1,
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt"
     }
   ],
   "parses": [
