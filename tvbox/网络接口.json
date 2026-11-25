@@ -1,5 +1,5 @@
 {
-  "spider": "https://raw.gitcode.com/2501_90909032/oooo/blobs/e724ea7f0931723a79d17e0f0d23b401ae8f38c8/261121.jar;md5;5670e3727a069c25f59c2ee616c50daa",
+  "spider": "https://raw.gitcode.com/2501_90909032/oooo/blobs/2671d7662cfb708405b90891f456c738183c0ec2/261124.jar;md5;743c06e0bf44099db11fde3f8402633f",
   "wallpaper": "https://t.alcy.cc/fj",
   "logo": "https://img.meituan.net/poiugc/018d4112d5aaf3d0982bb6bbc2bf71b2292451.gif",
   "sites": [
@@ -1163,6 +1163,18 @@
       "searchable": 0,
       "filterable": 0,
       "changeable": 0
+    }
+  ],
+  "lives": [
+    {
+      "name": "咪咕TV直播",
+      "type": 1,
+      "url": "http://www.52top.com.cn:678/downloads/migu.txt"
+    },
+    {
+      "name": "央视TV直播",
+      "type": 1,
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt"
     }
   ],
   "parses": [
