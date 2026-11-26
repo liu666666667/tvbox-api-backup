@@ -1,5 +1,5 @@
 {
-  "spider": "https://raw.gitcode.com/2501_90909032/oooo/blobs/2671d7662cfb708405b90891f456c738183c0ec2/261124.jar;md5;743c06e0bf44099db11fde3f8402633f",
+  "spider": "https://raw.gitcode.com/2501_90909032/oooo/blobs/bd0582bbf554456fce5216480a76eaf959b0796d/2611251.jar;md5;1af37729a7a4cc5f265aeb3abfe3aac3",
   "wallpaper": "https://t.alcy.cc/fj",
   "logo": "https://img.meituan.net/poiugc/018d4112d5aaf3d0982bb6bbc2bf71b2292451.gif",
   "sites": [
@@ -302,6 +302,38 @@
       "quickSearch": 1
     },
     {
+      "key": "qiwei",
+      "name": "🍃七味丨网盘资源",
+      "type": 3,
+      "api": "csp_Qiwei",
+      "searchable": 0,
+      "changeable": 0,
+      "timeout": 60,
+      "ext": {
+        "site": [
+          "https://www.qwmkv.com",
+          "https://www.qwnull.com",
+          "https://www.qwfilm.com",
+          "https://www.qnmp4.com",
+          "https://www.qn63.com"
+        ]
+      }
+    },
+    {
+      "key": "pomo",
+      "name": "🅿️Pomo丨网盘资源",
+      "type": 3,
+      "api": "csp_Pomo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "site": [
+          "https://pomo.mom"
+        ]
+      }
+    },
+    {
       "key": "移动",
       "name": "🌐移动丨4K免扫",
       "type": 3,
@@ -408,6 +440,15 @@
       "ext": {
         "url": "http://v.rbotv.cn"
       }
+    },
+    {
+      "key": "蛋蛋鸭",
+      "name": "🦆看鸭丨蓝光秒播",
+      "type": 3,
+      "api": "csp_Kanya",
+      "searchable": 1,
+      "quick": 1,
+      "ext": "https://www.kankanya.pro"
     },
     {
       "key": "搜剧AI",
@@ -541,23 +582,6 @@
         "version": "https://8815.kstore.vip/tvbox/3.0.7.0",
         "decrypt": "1"
       }
-    },
-    {
-      "key": "AppWL",
-      "name": "🌀未来丨蓝光秒播",
-      "type": 3,
-      "api": "csp_AppWL",
-      "searchable": 1,
-      "quick": 1
-    },
-    {
-      "key": "AppYB",
-      "name": "☁️云播丨蓝光秒播",
-      "type": 3,
-      "api": "csp_AppYB",
-      "searchable": 1,
-      "quick": 1,
-      "filterable": 1
     },
     {
       "key": "独播影视",
@@ -1163,6 +1187,18 @@
       "searchable": 0,
       "filterable": 0,
       "changeable": 0
+    }
+  ],
+  "lives": [
+    {
+      "name": "咪咕TV直播",
+      "type": 1,
+      "url": "http://www.52top.com.cn:678/downloads/migu.txt"
+    },
+    {
+      "name": "央视TV直播",
+      "type": 1,
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt"
     }
   ],
   "parses": [
