@@ -1,5 +1,5 @@
 {
-  "spider": "https://raw.gitcode.com/2501_90909032/oooo/blobs/bd0582bbf554456fce5216480a76eaf959b0796d/2611251.jar;md5;1af37729a7a4cc5f265aeb3abfe3aac3",
+  "spider": "https://raw.gitcode.com/2501_90909032/oooo/blobs/eee6626cb5d3eb9aae6f67bfe0a993c1391ed637/261127.jar;md5;172de8105a9742dfc8f30631f203cd6f",
   "wallpaper": "https://t.alcy.cc/fj",
   "logo": "https://img.meituan.net/poiugc/018d4112d5aaf3d0982bb6bbc2bf71b2292451.gif",
   "sites": [
@@ -300,6 +300,19 @@
       "api": "csp_HDMoli",
       "searchable": 1,
       "quickSearch": 1
+    },
+    {
+      "key": "xgyk",
+      "name": "⭐星光影库丨网盘",
+      "type": 3,
+      "api": "csp_XingGuang",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": {
+        "site": [
+          "https://xkykmovie.com"
+        ]
+      }
     },
     {
       "key": "qiwei",
@@ -678,7 +691,7 @@
       "key": "果果短剧",
       "name": "🍎果果丨短剧爽看",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/master/py/hgtv.py",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/James/refs/heads/main/py/hgtv.py",
       "genre": "shortdrama"
     },
     {
@@ -1187,6 +1200,18 @@
       "searchable": 0,
       "filterable": 0,
       "changeable": 0
+    }
+  ],
+  "lives": [
+    {
+      "name": "咪咕TV直播",
+      "type": 1,
+      "url": "http://www.52top.com.cn:678/downloads/migu.txt"
+    },
+    {
+      "name": "央视TV直播",
+      "type": 1,
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt"
     }
   ],
   "parses": [
